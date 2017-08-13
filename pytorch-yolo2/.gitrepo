@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/aikiselev/pytorch-yolo2
+	branch = master
+	commit = 101f6db2d948dd29516993f4e8404a68b1826d1d
+	parent = 3c17d6382fb2f73ef38a7fe47503cb0853f1b0be
+	cmdver = 0.3.1
